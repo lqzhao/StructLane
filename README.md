@@ -3,7 +3,7 @@
 泛化性实验：
 | target\source           | CULane   | LLAMAS    | TuSimple    |
 | :----------------------- | :----: | :-----: | :-----: | 
-| CULane | -  | -   | - |
+| CULane | -  | 43.14/54.88   | - |
 | LLAMAS| 57.31/66.46  | -  |- |
 | TuSimple | -  | -  |- |
 
