@@ -7,4 +7,4 @@
 | LLAMAS| 57.31/62.46  | -  |90.27/92.84 |
 | TuSimple | 68.94/74.11  | 94.47/96.27  |- |
 
-
+We used templates of source dataset since the templates of real-world scenes are inaccessible.
