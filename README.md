@@ -18,11 +18,12 @@ Shape-Specific StructLane
 </p>
 
 
-泛化性实验：
-| target\source           | CULane   | LLAMAS    | TuSimple    |
-| :----------------------- | :----: | :-----: | :-----: | 
-| CULane | -  | 43.14/50.88   | 29.85/37.32 |
-| LLAMAS| 57.31/62.46  | -  |90.27/92.84 |
-| TuSimple | 68.94/74.11  | 94.47/96.27  |- |
+CULane (F1@75):
+| Method                   | ResNet18   | ResNet34    | ResNet101    |
+| :----------------------- | :----:     | :-----:     | :-----:      | 
+| CondLaneNet              | 57.42      | 59.39       |  61.23       |
+| StructLane (CondLaneNet) |  57.59     | 59.87       |  61.10       |
+| CLRNet                   |  79.58     |  79.73      |  80.13       |
+| StructLane (CLRNet)      |  80.39     |  80.79      |  80.98       |
 
 We used templates of source dataset since the templates of real-world scenes are inaccessible.
