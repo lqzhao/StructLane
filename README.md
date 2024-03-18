@@ -8,7 +8,7 @@ Accurately detecting the lanes plays a significant role in various autonomous an
 
 ## Method
 <p align='center'>
-<img src="./assets/layout_framework.png" width="720px">
+<img src="./assets/layout_pipeline.png" width="720px">
 </p>
 
 
