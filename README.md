@@ -34,5 +34,6 @@ CULane (F1@75):
 
 TuSimple (Acc):
 | Method                   | ResNet18   | ResNet34    | ResNet101    |
+| :----------------------- | :----:     | :-----:     | :-----:      | 
 | CLRNet                   | 96.84     |  96.87     | 96.83      | 
 | StructLane (CLRNet) | 96.92     |  96.99     | 96.95      | 
