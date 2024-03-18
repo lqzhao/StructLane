@@ -19,11 +19,11 @@ Shape-Specific StructLane
 
 
 CULane (F1@75):
-| Method                   | ResNet18   | ResNet34    | ResNet101    |
-| :----------------------- | :----:     | :-----:     | :-----:      | 
-| CondLaneNet              | 57.42      | 59.39       |  61.23       |
-| StructLane (CondLaneNet) |  57.59     | 59.87       |  61.10       |
-| CLRNet                   |  79.58     |  79.73      |  80.13       |
-| StructLane (CLRNet)      |  80.39     |  80.79      |  80.98       |
+| Method                   | ResNet18   | ResNet34    |   ResNet50    | ResNet101    |
+| :----------------------- | :----:     | :-----:     |  :-----:      | :-----:      | 
+| CondLaneNet              | 57.42      | 59.39       |               |  61.23       |
+| StructLane (CondLaneNet) |  57.59     | 59.87       |               |  61.10       |
+| CLRNet                   |  79.58     |  79.73      |               |  80.13       |
+| StructLane (CLRNet)      |  80.39     |  80.79      |               |  80.98       |
 
 We used templates of source dataset since the templates of real-world scenes are inaccessible.
