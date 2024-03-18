@@ -1,7 +1,7 @@
 # StructLane
 > StructLane: Leveraging Structural Relations for Lane Detection
 > 
-> (Under Peer Review)
+> (Under Peer Review for an IEEE Transactions journal)
 > 
 > Linqing Zhao, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu
 
