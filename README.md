@@ -32,8 +32,4 @@ CULane (F1@75):
 | CLRNet                   |  79.58     |  79.73      |  -------      |  80.13       |
 | StructLane (CLRNet)      |  80.39     |  80.79      |  -------      |  80.98       |
 
-TuSimple (Acc):
-| Method                   | ResNet18   | ResNet34    | ResNet101    |
-| :----------------------- | :----:     | :-----:     | :-----:      | 
-| CLRNet                   | 96.84     |  96.87     | 96.83      | 
-| StructLane (CLRNet) | 96.92     |  96.99     | 96.95      | 
+
